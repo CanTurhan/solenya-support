@@ -4,7 +4,7 @@ title: Solenya Privacy Policy
 
 # Solenya Privacy Policy
 
-**Effective date: July 14, 2026**
+**Effective date: November 4, 2026**
 
 [Back to Support](./)
 
@@ -24,7 +24,7 @@ Deleting the application removes this locally stored information, subject to the
 
 ### Apple services
 
-Apple may process technical, purchase, diagnostic or App Store information according to Apple’s own policies. This processing is controlled by Apple and is separate from Solenya.
+Apple may process technical, purchase, diagnostic or App Store information according to Apple’s own policies. This processing is controlled by Apple and is separate from Solenya. Premium trials, payments, subscription management and purchase restoration use Apple StoreKit. Solenya reads verified purchase status to provide access; it does not receive payment card details. Internet access is needed for purchases, restoring and loading current prices. Built-in practices can work offline while verified access remains valid.
 
 ### Children
 
@@ -60,7 +60,7 @@ Uygulamayı silmek, cihazınızın ve yedeklemelerin normal çalışma şekline 
 
 ### Apple hizmetleri
 
-Apple; teknik, satın alma, tanılama veya App Store bilgilerini kendi politikalarına göre işleyebilir. Bu işlemler Apple tarafından yönetilir ve Solenya’dan bağımsızdır.
+Apple; teknik, satın alma, tanılama veya App Store bilgilerini kendi politikalarına göre işleyebilir. Bu işlemler Apple tarafından yönetilir ve Solenya’dan bağımsızdır. Premium denemeleri, ödemeler, abonelik yönetimi ve satın alımların geri yüklenmesi Apple StoreKit üzerinden yürütülür. Solenya erişim sağlamak için doğrulanmış satın alma durumunu okur; ödeme kartı bilgilerini almaz. Satın alma, geri yükleme ve güncel fiyatları alma internet bağlantısı gerektirir. Uygulamadaki egzersizler doğrulanmış erişimin süresi dolana kadar çevrimdışı çalışabilir.
 
 ### Çocuklar
 
@@ -96,7 +96,7 @@ Eliminar la aplicación borra esta información local, sujeto al funcionamiento 
 
 ### Servicios de Apple
 
-Apple puede procesar información técnica, de compras, diagnóstico o de App Store según sus propias políticas. Este tratamiento es gestionado por Apple y es independiente de Solenya.
+Apple puede procesar información técnica, de compras, diagnóstico o de App Store según sus propias políticas. Este tratamiento es gestionado por Apple y es independiente de Solenya. Las pruebas premium, los pagos, la gestión de suscripciones y la restauración de compras usan Apple StoreKit. Solenya lee el estado verificado de las compras para dar acceso y no recibe los datos de tarjetas. Las compras, la restauración y los precios actuales requieren internet. Las prácticas incluidas pueden funcionar sin conexión hasta que venza el acceso verificado.
 
 ### Menores
 
